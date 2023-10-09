@@ -1,10 +1,11 @@
 ✨Hello, my name is Marcelle Neves Sandy, I study information technology!✨
 
-- 📚 I study systems analysis and development at Unisinos and also a technical course in IT at Colégio São Lucas da Ulbra.
+- 📚 I study systems analysis and development at Unisinos.
+- 👀 A also a technical course in IT at Colégio São Lucas da Ulbra.
 - 🤍 I am interested in internships in the area of ​​information technology.
 - 🌍 I'm currently learning programming logic with Java.
 - 💻 I'm looking to develop my skills as a programmer!
-- 😎 How to reach me marcellesandy3@gmail.com 
+- 😎 How to reach me marcellesandy3@gmail.com...
 
 
 <div style="display: inline_block"><br>
