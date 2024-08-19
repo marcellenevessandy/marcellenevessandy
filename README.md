@@ -1,7 +1,7 @@
 ## ✨Olá Rede, meu nome é Marcelle Neves Sandy, estudo tecnologia da informação!✨
 
-### Meu perfil na DIO 👇🏻 <br>
-[![DIO](https://img.shields.io/badge/-dio-%23B50077?style=for-the-badge&logo=diagrams&logoColor=white)](https://www.dio.me/users/marcellesandy3)
+### Meu perfil no Portfólio 👇🏻
+[![Portfólio](https://img.shields.io/badge/-portf%C3%B3lio-%23B50077?style=for-the-badge&logo=diagrams&logoColor=white)](https://marcellenevessandy.vercel.app/)
 
 - 📚 Eu estudo análise e desenvolvimento de sistemas na Unisinos.
 - 👀 Também estou fazendo um curso técnico em TI no Colégio São Lucas da Ulbra.
