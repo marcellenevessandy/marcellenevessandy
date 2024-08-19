@@ -1,24 +1,29 @@
-✨Hello, my name is Marcelle Neves Sandy, I study information technology!✨
+## ✨Olá Rede, meu nome é Marcelle Neves Sandy, estudo tecnologia da informação!✨
 
-- 📚 I study systems analysis and development at Unisinos.
-- 👀 A also a technical course in IT at Colégio São Lucas da Ulbra.
-- 🤍 I am interested in internships in the area of ​​information technology.
-- 🌍 I'm currently learning programming logic with Java.
-- 💻 I'm looking to develop my skills as a programmer!
-- 😎 How to reach me marcellesandy3@gmail.com
+### Meu perfil na DIO 👇🏻 <br>
+[![DIO](https://img.shields.io/badge/-dio-%23B50077?style=for-the-badge&logo=diagrams&logoColor=white)](https://www.dio.me/users/marcellesandy3)
+
+- 📚 Eu estudo análise e desenvolvimento de sistemas na Unisinos.
+- 👀 Também estou fazendo um curso técnico em TI no Colégio São Lucas da Ulbra.
+- 🤍 Tenho interesse em estágios na área de desenvolvimento web.
+- 🌍 Atualmente, estou aprendendo banco de dados com sql.
+- 💻 Estou buscando desenvolver minhas habilidades como programadora!
+
+### Habilidades
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=E94D5F)
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=E94D5F)
+
+### Contato
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcellenevessandy/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcellesandy3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelle-sandy-8527b1237/)
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcelle-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Marcelle-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcelle-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/marcellenevessandy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marcellesandy3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelle-sandy-8527b1237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+### Linguagens Mais Usadas
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellenevessandy&layout=compact&theme=radical&langs_count=5)
+
